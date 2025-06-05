@@ -1,0 +1,2 @@
+D:/Prj303/NuVision_BTCurrencyDetector/currency_detection/android/app/.cxx/RelWithDebInfo/5r42a5h5/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Prj303/NuVision_BTCurrencyDetector/currency_detection/android/app/.cxx/RelWithDebInfo/5r42a5h5/arm64-v8a/CMakeFiles/rebuild_cache.dir
