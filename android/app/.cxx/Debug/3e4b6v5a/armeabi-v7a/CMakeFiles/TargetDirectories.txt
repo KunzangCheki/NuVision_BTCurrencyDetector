@@ -1,2 +1,0 @@
-C:/Users/User User/Desktop/currency_detection/android/app/.cxx/Debug/3e4b6v5a/armeabi-v7a/CMakeFiles/edit_cache.dir
-C:/Users/User User/Desktop/currency_detection/android/app/.cxx/Debug/3e4b6v5a/armeabi-v7a/CMakeFiles/rebuild_cache.dir

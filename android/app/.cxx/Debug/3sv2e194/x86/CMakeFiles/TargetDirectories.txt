@@ -1,2 +1,0 @@
-C:/Users/User User/Desktop/Prj303/currency_detection/android/app/.cxx/Debug/3sv2e194/x86/CMakeFiles/edit_cache.dir
-C:/Users/User User/Desktop/Prj303/currency_detection/android/app/.cxx/Debug/3sv2e194/x86/CMakeFiles/rebuild_cache.dir

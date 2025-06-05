@@ -1,1 +1,0 @@
-D:\Prj303\NuVision_BTCurrencyDetector\currency_detection\build\app\intermediates\cxx\RelWithDebInfo\5r42a5h5\obj\x86_64
